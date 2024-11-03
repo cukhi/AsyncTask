@@ -1,0 +1,17 @@
+[
+  {
+  "name": "Pierwszy wpis do bazy",
+  "price": 101.00,
+  "desc": "Bla bla bla "
+  },
+  {
+    "name": "Drugi Nowa",
+    "price": 10.00,
+    "desc": "Bla bla bla "
+  },
+  {
+    "name": "Produkt3",
+    "price": 109.20,
+    "desc": "fajne"
+  }
+]
